@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>halitov.netlogy</groupId>
-    <artifactId>NASAImage</artifactId>
+    <artifactId>Netlogy-NASAImage</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
