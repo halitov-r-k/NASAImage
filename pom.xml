@@ -28,6 +28,12 @@
             <version>2.14.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.telegram</groupId>
+            <artifactId>telegrambots</artifactId>
+            <version>6.1.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>

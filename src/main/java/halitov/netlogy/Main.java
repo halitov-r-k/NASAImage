@@ -12,7 +12,7 @@ import java.io.IOException;
 
 
 public class Main {
-    public static final String url = "https://api.nasa.gov/planetary/apod?api_key=Ad5FiPZWPYc2xB330H839WyrrNP3f349TJbsBBq4";
+    public static final String url = "https://api.nasa.gov/planetary/apod?api_key=Ad5FiPZWPYc2xB330H839WyrrNP3f349TJbsBBq4&date=2023-03-19";
     public static ObjectMapper mapper = new ObjectMapper();
 
     public static void main(String[] args) throws IOException {
